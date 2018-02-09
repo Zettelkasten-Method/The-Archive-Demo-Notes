@@ -1,0 +1,39 @@
+# 201801231614 Markdown
+#markdown #plaintext #archiveapp-demo
+
+*The Archive* is a plain text note editor, but it highlights Markdown-Syntax. This means you can use the Markdown convention of marking up text. This can guide your eye when you scan notes, and it can ease exporting your notes into various formats for publishing on the web or in print.
+
+For a full documentation see this website from the creator of markdown: https://daringfireball.net/projects/markdown/basics 
+
+## Basic textual markup
+
+The line above demonstrates a level 2 heading. The more hashes you add, the deeper level of the heading is. This is useful to structure longer text but not used that often in notes.
+
+- Lists are useful.
+- They are especially useful when list items get longer, as *The Archive* wraps the lines around and adds indentation to guide your eye along the list when you read.
+    1. Nested lists work, too.
+    2. And, as you see, you can number items to make the list an ordered list instead of an unordered list.
+- And so you may start an overview.
+
+You separate paragraphs of text with empty lines, not just with single line breaks. Inside paragraphs, you can **embolden parts of text** like this to really stress something, or *italicize text* for a much milder emphasis. Or you ***Italicize emboldened text*** for maximum emphasis. Shouting in all caps is optional and not recommended during office hours. Be smart and *emphasize* with style.
+
+If you want to add code or put something that would be recognized as Markdown in verbatim, `you can use backticks, disabling *emphasis*, too`.
+
+Quoted from the Markdown guide:
+
+> Blockquotes are indicated using email-style ‘>’ angle brackets.
+
+## Code blocks
+
+Then there's verbatim or "code" blocks,
+
+    either by block-indenting text with 4 spaces
+    or a tabulator,
+
+or you can use
+
+```
+GitHub-style code fences to ease copy & pasting.
+```
+
+Themes for *The Archive* are recommended to use monospace fonts. Monospace fonts are very predictable which is useful for lists, tables and more.

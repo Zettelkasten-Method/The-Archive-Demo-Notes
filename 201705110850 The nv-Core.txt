@@ -1,0 +1,14 @@
+# 201705110850 The nv-Core
+#nvALT #archiveapp-demo
+
+The core of our app is derived from [Notational Velocity][nv] and its popular fork, [nvALT][]. Why? It is the fastest app for note taking. We used the nvALT branch during recent years. The "nv" core delivers the speed and ease of use to the archive.
+
+We stand on the shoulders of giants and make it a point to honor the ancestors of the archive.
+
+[nv]: http://notational.net/
+[nvalt]: http://brettterpstra.com/projects/nvalt/
+
+Why is speed so important? The reason is found in basic psychology. The more you do something the more important small aspects become. I don't mind losing a second or two when I wait for the bus. I don't do it very often. But a second or two can be **a lot** when it comes to repeating steps in the archive. 
+
+Speed is important because it is one of the main determinants on how smooth the app can bend around your actions.
+
