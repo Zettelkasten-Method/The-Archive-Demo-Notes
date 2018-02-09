@@ -1,12 +1,12 @@
 # 201705110828 The Archive App
 #archiveapp-demo 
 
-## Origins of *The Archive* App
+## Origins of The Archive App
 
 History of the Method.................................[[201705110956]]
-Luhmanns Zettelkasten.................................[[201705111034]]
+Luhmann's Zettelkasten................................[[201705111034]]
 
-## Understanding *The Archive* App
+## Understanding The Archive App
 
 Creating Notes........................................[[201801020926]]
 Finding Notes.........................................[[201801020929]]
@@ -20,4 +20,4 @@ Connecting Notes......................................[[201705091531]]
 ## Software Agnosticism
 
 The Concept of Software Agnostic Programming..........[[201705120915]]
-The Plain Text Approach.............................. [[201705120913]]
+The Plain Text Approach...............................[[201705120913]]
