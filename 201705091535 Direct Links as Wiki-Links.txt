@@ -10,6 +10,6 @@ The search results include all the notes that refer to this particular target. F
 
 This means that a direct link refers to a particular note via its ID and shows you all the backlinks to that note. This gives you a bit of an overview for the context of the searched note. This context will become handy when your archive grows and navigating in it becomes harder.
 
-Since double bracketed links are performing a search under the hood, you can can put the whole title in double brackets, too, like this: [[201705091531 Connections of notes]]
+Since double bracketed links are performing a search under the hood, you can put the whole title in double brackets, too, like this: [[201705091531 Connections of notes]]
 
 You can also create links into The Archive from other applications using the built-in URL scheme.[[201801231551]]

@@ -13,4 +13,4 @@ The more rigor you apply to the connections the better this process works. Imagi
 
 Tags are similar to waving an arm in a broad direction. Direct links are precise pointers to specific locations.
 
-But don't disregard tags completely. There are super useful *when* you don't want specific directions. [[201705180756 How to tag properly]] 
+But don't disregard tags completely. They are super useful *when* you don't want specific directions. [[201705180756 How to tag properly]] 
