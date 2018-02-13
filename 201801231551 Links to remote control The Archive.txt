@@ -1,7 +1,7 @@
 # 201801231551 Links to remote control The Archive
 #automation
 
-First, remember that we suggest you stick to the plain text approach and use IDs to reference your Zettel notes from external sources, like digital Mind-Maps or spreadsheets. Sticking to IDs instead of application-specific features prevents you from suffering from app lock-in effects. See [[201705120915 Software-agnostic programming]].
+First, remember that we suggest to stick to the plain text approach and use IDs to reference your Zettel notes from external sources, like digital Mind-Maps or spreadsheets. Sticking to IDs instead of application-specific features prevents you from suffering from app lock-in effects. See [[201705120915 Software-agnostic programming]].
 
 That being said, if you want to write scripts that remote control *The Archive*, or if you want to insert clickable links in other applications to open a note in this app, you can use the built-in URL scheme for these purposes:
 

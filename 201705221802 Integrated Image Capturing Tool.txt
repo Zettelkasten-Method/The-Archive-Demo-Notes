@@ -1,9 +1,9 @@
 # 201705221802 Integrated Image Capturing Tool
 #images #archiveapp-demo
 
-The image capturing tool (⌥⌘M) is for integration of images into your work flow. Especially, if you draw a diagram or something similar.
+The image capturing tool (⌥⌘M) is for integration of images into your workflow. Especially, if you draw a diagram or something similar.
 
-You should draw. Drawing is good for your brain and it improves your productivity.[^1][^2] Images are *the* way to capture flows, systems, and wholenesses in general. But drawing with the mouse or with the touchpad is pesky and very few people have a pen tablet. So you're better off drawing with pen and paper. Also, in general, drawing by hand is faster, more precise, more engaging and more fun. 
+You should draw. Drawing is good for your brain and it improves your productivity.[^1][^2] Images are *the* way to capture flows, systems, and wholeness in general. But drawing with the mouse or the trackpad is pesky and very few people have a pen tablet. So you're better off drawing with pen and paper. Also, in general, drawing by hand is faster, more precise, more engaging and more fun. 
   
 The image capturing tool is a shortcut from your real-world desk into your digital archive.
 
